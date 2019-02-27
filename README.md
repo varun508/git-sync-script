@@ -5,5 +5,5 @@ Simple script to commit and push your code
 <p>It adds, commits and pushes the code</p>
 
 ```
-gitc,Your commit message
+gitc, "Your commit message"
 ```
